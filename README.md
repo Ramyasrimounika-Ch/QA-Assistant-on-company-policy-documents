@@ -14,20 +14,20 @@ This project mainly focuses on:
 -Evaluation and reasoning over LLM outputs
 
 # Setup Instructions
-## 1.Clone the Repository
+### 1.Clone the Repository
 ```bash
 git clone <repo-url>
 cd policy-qa-rag
 ```
-## 2.Install Dependencies
+### 2.Install Dependencies
 ``` bash
 pip install -r requirements.txt
 ```
-## 3.Environment Variables
+### 3.Environment Variables
 ```env
 GROQ_API_KEY=copy_and_paste_your_api_key_here
 ```
-## 4.Run the App
+### 4.Run the App
 ```bash
 streamlit run app.py
 ```
@@ -224,3 +224,7 @@ Model responds with:
 -Add metadata-based filtering
 
 -Cache repeated queries
+
+# Final Notes
+
+This project focuses on reasoning,clarity,and gradual improvements skills that are required for building LLM-based systems,,in more humanly way.
