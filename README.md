@@ -225,6 +225,9 @@ Model responds with:
 
 -Cache repeated queries
 
+### What I'm most proud of:
+I'm most proud of building a clean and grounded RAG pipeline with strong prompt control to avoid hallucinations and to handle fallback cases.I iterated on prompts,and added simple reranking of chunks,and ensured answers are always sourced from the retrieved policy documents.
+
 # Final Notes
 
 This project focuses on reasoning,clarity,and gradual improvements skills that are required for building LLM-based systems,,in more humanly way.
