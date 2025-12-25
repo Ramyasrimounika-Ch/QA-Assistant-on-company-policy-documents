@@ -1,0 +1,4 @@
+2025-12-24 20:48:21,673 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-24 20:48:22,182 | INFO | faiss.loader | Loading faiss with AVX2 support.
+2025-12-24 20:48:22,248 | INFO | faiss.loader | Successfully loaded faiss with AVX2 support.
+2025-12-24 20:48:22,343 | INFO | PolicyRAG | Vector index loaded

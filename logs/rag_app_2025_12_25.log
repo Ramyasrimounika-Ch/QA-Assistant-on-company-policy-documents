@@ -1,0 +1,55 @@
+2025-12-25 11:32:40,360 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:32:40,619 | INFO | faiss.loader | Loading faiss with AVX2 support.
+2025-12-25 11:32:41,028 | INFO | faiss.loader | Successfully loaded faiss with AVX2 support.
+2025-12-25 11:32:41,051 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:09,062 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:33:09,391 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:12,135 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:33:12,981 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:14,372 | INFO | PolicyRAG | User query received: What option does a customer have if an order cannot be cancelled once it is out for delivery?
+2025-12-25 11:33:14,395 | INFO | PolicyRAG | Prompt selected: initial_prompt
+2025-12-25 11:33:15,143 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-25 11:33:25,683 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:33:26,007 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:29,424 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:33:29,657 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:31,152 | INFO | PolicyRAG | User query received: What option does a customer have if an order cannot be cancelled once it is out for delivery?
+2025-12-25 11:33:31,153 | INFO | PolicyRAG | Prompt selected: improved_prompt1
+2025-12-25 11:33:31,619 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-25 11:33:45,863 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:33:46,126 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:49,103 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:33:49,333 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:33:50,831 | INFO | PolicyRAG | User query received: What option does a customer have if an order cannot be cancelled once it is out for delivery?
+2025-12-25 11:33:50,834 | INFO | PolicyRAG | Prompt selected: improved_prompt2
+2025-12-25 11:33:51,458 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-25 11:34:34,061 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:34:34,388 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:34:38,476 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:34:38,696 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:34:40,272 | INFO | PolicyRAG | User query received: What happens if an international shipment is lost in transit?
+2025-12-25 11:34:40,273 | INFO | PolicyRAG | Prompt selected: improved_prompt2
+2025-12-25 11:34:40,847 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-25 11:34:46,823 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:34:47,141 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:34:49,135 | INFO | PolicyRAG | User query received: What happens if an international shipment is lost in transit?
+2025-12-25 11:34:49,145 | INFO | PolicyRAG | Prompt selected: improved_prompt2
+2025-12-25 11:34:49,690 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-25 11:51:27,386 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:51:27,793 | INFO | faiss.loader | Loading faiss with AVX2 support.
+2025-12-25 11:51:27,849 | INFO | faiss.loader | Successfully loaded faiss with AVX2 support.
+2025-12-25 11:51:27,889 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:53:32,353 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:53:32,636 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:53:35,244 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:53:35,488 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:53:36,938 | INFO | PolicyRAG | User query received:How long does Flipkart take to resolve customer complaints?
+2025-12-25 11:53:36,940 | INFO | PolicyRAG | Prompt selected:initial_prompt
+2025-12-25 11:53:38,892 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-25 11:53:49,335 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:53:49,598 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:53:53,111 | INFO | PolicyRAG | Policy QA Streamlit app started
+2025-12-25 11:53:53,343 | INFO | PolicyRAG | Vector index loaded
+2025-12-25 11:53:54,759 | INFO | PolicyRAG | User query received:How long does Flipkart take to resolve customer complaints?
+2025-12-25 11:53:54,760 | INFO | PolicyRAG | Prompt selected:improved_prompt2
+2025-12-25 11:53:55,882 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
